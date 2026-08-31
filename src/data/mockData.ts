@@ -126,9 +126,9 @@ export const INITIAL_PROJECTS: Project[] = [
         currencySymbol: "ج.م"
       },
       contact: {
-        phone: "01099887766",
-        whatsapp: "201099887766",
-        email: "order@burgerzone.eg",
+        phone: "01012329975",
+        whatsapp: "201012329975",
+        email: "omarcreat33@gmail.com",
         address: "شارع التسعين الشمالي، التجمع الخامس، القاهرة",
         workingHours: "يومياً من 12 ظهراً حتى 3 فجراً"
       },
