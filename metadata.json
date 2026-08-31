@@ -1,0 +1,6 @@
+{
+  "name": "مشروعي | منصة بناء وتوليد المواقع الذكية",
+  "description": "منصة ذكية متكاملة لتوليد وإدارة وبناء المواقع الإلكترونية والأنظمة التجارية بجميع أنواعها بالذكاء الاصطناعي مع محرر بصري وتخصيص كامل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
